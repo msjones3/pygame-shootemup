@@ -19,23 +19,23 @@ Identify what is happening at each of these parts:
 - examine the game loop. What functions are being called? 
 - when does the function `pygame.quit()` get called? 
 
-## Handling Collisions
-Please watch the video and follow along. 
+### 1. Handling Collisions
+Please watch the video and follow along.   
 [Kids Can Code tutorial - collisions](http://kidscancode.org/blog/2016/08/pygame_shmup_part_3/)
 
-## Adding Graphics
+### 2. Adding Graphics
 [Kids Can Code tutorial- adding graphics](http://kidscancode.org/blog/2016/08/pygame_shmup_part_4/)
 
-## improved collisions
+### 3. improved collisions
 [Kids Can Code tutorial- improved collisions](http://kidscancode.org/blog/2016/08/pygame_shmup_part_5/)
 
-## sprite animation
+### 4. sprite animation
 [Kids Can Code tutorial- sprite animation](http://kidscancode.org/blog/2016/08/pygame_shmup_part_6/)
 
-## scoring (drawing text)
+### 5. scoring (drawing text)
 [Kids Can code tutorial - scoring ](http://kidscancode.org/blog/2016/08/pygame_shmup_part_7/)
 
-## Sound and Music
+### 6.Sound and Music
 [Kids can code tutorial - sound and music(http://kidscancode.org/blog/2016/08/pygame_shmup_part_8/)
 
 ## Credits
