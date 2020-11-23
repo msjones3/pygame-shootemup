@@ -36,7 +36,7 @@ Please watch the video and follow along.
 [Kids Can code tutorial - scoring ](http://kidscancode.org/blog/2016/08/pygame_shmup_part_7/)
 
 ### 6.Sound and Music
-[Kids can code tutorial - sound and music(http://kidscancode.org/blog/2016/08/pygame_shmup_part_8/)
+[Kids can code tutorial - sound and music](http://kidscancode.org/blog/2016/08/pygame_shmup_part_8/)
 
 ## Credits
 Thank you to [KidsCanCode](https:///kidscancode.org/) for this awesome tutorial! 
